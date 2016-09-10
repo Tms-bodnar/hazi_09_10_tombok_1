@@ -20,11 +20,9 @@ public class Hazi_09_10_double_tomb {
         //double szorzatok
         Scanner sc = new Scanner(System.in);
         int egesz = 0;
-        double max = 0;
-        double szorzat = 1;
+        
         double osszeg = 0;
-        double min = 0;
-        double tiznelNagyobb = 0;
+        
 
         do {
             System.out.println("Írj be egy pozitív egész számot: ");
